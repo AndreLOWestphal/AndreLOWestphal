@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi guys, nice too meet you, and welcome to my world... or its beginning of it!!!
 
 ## Prazer este sou eu André ...
 
@@ -10,6 +10,23 @@
 - 📫 Me encontre via e-mail: dedewestphal@hotmail.com ...
 - 😄 Estou executando em paralelo com tudo que estou estudando, Projetos pessoais: um Site Curriculo com tudo que aprendi e um app Mobile ...
 - ⚡ Sou um gamer, dev, aprendo tudo com facilidade, e tenho várias profissões ...
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80px">
+</p>
+
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLOWestphal&show_icons=true&theme=gruvbox)-->
+
+
+--------------------
 
 ### Sobre o eu profissional se quiser saber mais detalhes ...
 
