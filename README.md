@@ -21,10 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80px">
 </p>
-
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLOWestphal&show_icons=true&theme=gruvbox)-->
-
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLOWestphal&amp;layout=compact&amp;langs_count=7&amp;theme=gruvbox" style="max-width: 100%;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLOWestphal&amp;show_icons=true&amp;theme=gruvbox&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"></div>
 
 --------------------
 
