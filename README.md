@@ -1,5 +1,4 @@
-<p align="center" style="font-size: 2.2rem;"><b>Hi guys, nice too meet you, and welcome to my world... 
-<br>or its beginning of it!!!</b></p>
+# Hi guys, nice too meet you, and welcome to my world... or its beginning of it!!!
 
 ## Prazer este sou eu André ...
 
