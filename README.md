@@ -1,4 +1,4 @@
-# Hi guys, nice too meet you, and welcome to my world... or its beginning of it!!!
+# Olá senhoras e senhores, aqui estamos na montagem do meu mundo e experiências digitais, sejam muito bem vindos!!!
 
 ## Prazer este sou eu André ...
 
