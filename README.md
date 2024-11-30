@@ -31,38 +31,27 @@
 
 ### Sobre o eu profissional se quiser saber mais detalhes ...
 
-Meu nome é André e estou em busca de uma oportunidade de estágio ou meu primeiro emprego como Desenvolvedor Jr. Full-Stack.
+Sou estudante de Ciências da Computação, atualmente cursando entre o 5º e 6º semestre, com foco em desenvolvimento Full Stack e Engenharia de Software. Minha trajetória combina uma base sólida em tecnologia da informação, experiência em gestão empresarial e um histórico de liderança em projetos desafiadores.
 
-Atualmente estou me dedicando somente aos estudos e qualificação profissional.
-Sou graduando em Ciência da Computação. Experiência em desenvolvimento de software no Portifólio GitHub (Java, HTML, CSS, SQL, JavaScript, Node.js), suporte técnico, administração de sistemas e redes (CLT). Vasta experiência na área administrativa e segurança, assim somando 22 anos de mercado de trabalho desde o primeiro emprego e agora indo atrás de um sonho.
+Antes de ingressar na área de TI, fui empresário no setor de construção civil, onde gerenciei todas as etapas de projetos — do planejamento inicial à entrega final da obra. Essa vivência me proporcionou habilidades valiosas, como:
 
-Experiência profissional:
+Gestão de projetos complexos, respeitando prazos e orçamentos.
+Comunicação eficaz com clientes e equipes multidisciplinares.
+Capacidade de solucionar problemas rapidamente e tomar decisões assertivas.
+Atualmente, venho me especializando em:
 
-Administração: Controle de fluxo de caixa, vendas, cobrança, logística, levantamento de dados, supervisão de pessoal, folha de ponto, treinamento, normas de segurança, fiscalização de produção e boa conduta.
-Segurança: Readaptação e aprimoramento de controles patrimoniais públicos e privados, supervisionando 15 postos de serviço no Distrito Federal. Prevenção de incêndios, roubos e assédio moral.
-Informática: Criação de planilhas de controle para áreas financeiras, logísticas, patrimoniais e orçamentárias. Redução de tempo de execução, previsão de materiais, custo de obra a longo prazo. Manutenção de hardware e software, ensino de informática e introdução à linguagem de programação.
+Desenvolvimento Full Stack: Java, JavaScript (React, Node.js, Angular, TypeScript), HTML5, CSS3.
+Bancos de Dados: PostgreSQL, MongoDB e otimização de consultas SQL/NoSQL.
+Back-end e Arquitetura: criação de APIs RESTful, segurança de aplicações e práticas modernas de desenvolvimento.
+Metodologias Ágeis: DevOps e Scrum, buscando sempre eficiência e colaboração.
+Estou desenvolvendo projetos como aplicativos web e mobile que incluem funcionalidades robustas, como gerenciamento de usuários e integração de dados, aplicando na prática minhas habilidades técnicas e gerenciais.
 
-Habilidades técnicas:
+Diferenciais:
 
-Linguagens de programação: JavaScript, Node.js e Java.
-Banco de dados: SQL, PHP, Oracle e PostgreSQL.
-Desenvolvimento web: HTML5, CSS3, BootStrap.
-Sistemas operacionais: Windows, Linux e Android.
-Designer: Adobe CS6.
-Hardware: Mont. e Conf. de computadores, notebooks, redes e
-cabeamento estruturado.
-Software de produtividade: Microsoft Word, Excel, PowerPoint,
-Outlook, Teams e Access; Google Docs, Sheets, Slides, Gmail e
-Calendar; LibreOffice Writer, Calc, Impress, Draw e Base
-
-Estudante: Desenvolvimento de software em casa, estudo e atualização de conhecimentos no GitHub.
-
-Perfil profissional:
-
-Proativo, dedicado e com boa capacidade de aprendizado.
-Habilidade em trabalhar em equipe e sob pressão.
-Excelente comunicação e relacionamento interpessoal.
-Acredito que minhas habilidades e experiências podem ser valiosas para a sua empresa. Agradeço a oportunidade de apresentar meu currículo e coloco-me à disposição para uma entrevista.
+Inglês intermediário, com boa compreensão de leitura e escrita.
+Experiência comprovada em liderança, suporte técnico e gestão de equipes.
+Visão estratégica para planejar e executar soluções que impactam positivamente os negócios.
+Minha paixão é transformar desafios em soluções inovadoras. Vamos nos conectar e explorar como posso agregar valor ao seu projeto?
 
 Atenciosamente,
 
