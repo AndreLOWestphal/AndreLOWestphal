@@ -1,58 +1,64 @@
-# Olá senhoras e senhores, aqui estamos na montagem do meu mundo e experiências digitais, sejam muito bem vindos!!!
+# 💻 André Luis de Oliveira - Full Stack Developer 🚀  
 
-## Prazer este sou eu André ...
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-oliveira-7475585b/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dedewestphal@hotmail.com)
 
-- 🤖 Atualmente estou estudando **Ciências da Computação** e procurando *estágio ou meu primeiro Jr* ....
-- 💥 Estou me dedicando a linguagens como **JS**, **Node.js**, **JAVA**, **SQL**, **HTML5/CSS3**, **Git/GitHub** **Python** ...
-- 🗨️ Atualmente estou em busca de **estágio ou meu primeiro Jr** ...
-- 🤔 Gostaria de um help para localizar *estágios* ...
-- 💬 Pergunte-me o que quiser!!! ...
-- 📫 Me encontre via e-mail: dedewestphal@hotmail.com ou https://www.linkedin.com/in/andr%C3%A9-oliveira-7475585b/...
-- 😄 Estou executando em paralelo com tudo que estou estudando, Projetos pessoais: um Site Curriculo com tudo que aprendi e um app Mobile ...
-- ⚡ Sou um gamer, dev, aprendo tudo com facilidade, e tenho várias profissões ...
+## 👋 Sobre Mim  
+Sou um desenvolvedor **Full Stack** com paixão por resolver problemas e transformar ideias em soluções tecnológicas. Atualmente, estou no segundo semestre de Engenharia de Software, com ampla experiência prática em **Java**, **JavaScript**, **HTML**, **CSS**, **SQL/NoSQL**, e frameworks como **Angular** e **React**. Também possuo experiência em ferramentas como **Unity**, **Spine**, **AWS**, e banco de dados **Firebird**. Atuo como monitor na Faculdade Descomplica, ajudando alunos em disciplinas técnicas. Busco sempre expandir meus conhecimentos em tecnologias emergentes, como blockchain e sistemas baseados em DevOps.  
 
--------
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="80px"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80px">
-</p>
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLOWestphal&amp;layout=compact&amp;langs_count=7&amp;theme=gruvbox" style="max-width: 100%;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLOWestphal&amp;show_icons=true&amp;theme=gruvbox&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"></div>
+---
 
---------------------
+## 🛠️ Tecnologias e Ferramentas  
 
-### Sobre o eu profissional se quiser saber mais detalhes ...
+### Linguagens  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 
-Sou estudante de Ciências da Computação, atualmente cursando entre o 5º e 6º semestre, com foco em desenvolvimento Full Stack e Engenharia de Software. Minha trajetória combina uma base sólida em tecnologia da informação, experiência em gestão empresarial e um histórico de liderança em projetos desafiadores.
+### Ferramentas e Frameworks  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+![Firebird](https://img.shields.io/badge/-Firebird-FB0707?style=flat-square&logo=firebird&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)  
+![Spine](https://img.shields.io/badge/-Spine-000000?style=flat-square&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 
-Antes de ingressar na área de TI, fui empresário no setor de construção civil, onde gerenciei todas as etapas de projetos — do planejamento inicial à entrega final da obra. Essa vivência me proporcionou habilidades valiosas, como:
+### Design e Modelagem  
+![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  
 
-Gestão de projetos complexos, respeitando prazos e orçamentos.
-Comunicação eficaz com clientes e equipes multidisciplinares.
-Capacidade de solucionar problemas rapidamente e tomar decisões assertivas.
-Atualmente, venho me especializando em:
+---
 
-Desenvolvimento Full Stack: Java, JavaScript (React, Node.js, Angular, TypeScript), HTML5, CSS3.
-Bancos de Dados: PostgreSQL, MongoDB e otimização de consultas SQL/NoSQL.
-Back-end e Arquitetura: criação de APIs RESTful, segurança de aplicações e práticas modernas de desenvolvimento.
-Metodologias Ágeis: DevOps e Scrum, buscando sempre eficiência e colaboração.
-Estou desenvolvendo projetos como aplicativos web e mobile que incluem funcionalidades robustas, como gerenciamento de usuários e integração de dados, aplicando na prática minhas habilidades técnicas e gerenciais.
+## 🌟 Minhas Contribuições  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLOWestphal&layout=compact&theme=radical" alt="Estatísticas de Linguagens" />
+</div>
 
-Diferenciais:
+---
 
-Inglês intermediário, com boa compreensão de leitura e escrita.
-Experiência comprovada em liderança, suporte técnico e gestão de equipes.
-Visão estratégica para planejar e executar soluções que impactam positivamente os negócios.
-Minha paixão é transformar desafios em soluções inovadoras. Vamos nos conectar e explorar como posso agregar valor ao seu projeto?
+## 🔭 Projetos em Destaque  
+- **[Sistema de Gestão Eclesiástica](https://github.com/AndreLOWestphal/igreja-app)**: Aplicativo para igrejas com funcionalidades de login, calendário de eventos, mural de avisos e gestão administrativa.  
+- **[Landing Page Beauty Clinic](https://github.com/AndreLOWestphal/beauty-clinic)**: Adaptação responsiva baseada em design moderno para clínicas de estética.  
+- **[Marceneiros App](https://github.com/AndreLOWestphal/marcenaria-app)**: Sistema para gestão de projetos de marcenaria com carrossel de imagens e status dinâmico.  
 
-Atenciosamente,
+---
 
-André
+## 📚 O que estou aprendendo?  
+- **DevOps e Cloud Computing**: Estudo de alocação dinâmica de recursos na nuvem e ferramentas como AWS Lambda.  
+- **OutSystems**: Desenvolvimento de soluções rápidas com práticas recomendadas para sistemas corporativos.  
+- **Blockchain**: Estruturando ideias para sistemas descentralizados aplicáveis a sistemas operacionais e aplicativos.  
+
+---
+
+## 📫 Entre em Contato  
+📧 E-mail: dedewestphal@hotmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-oliveira-7475585b/)  
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para projetos colaborativos ou discussões técnicas!
