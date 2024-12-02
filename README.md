@@ -44,9 +44,8 @@ Sou um desenvolvedor **Full Stack** com paixão por resolver problemas e transfo
 ---
 
 ## 🔭 Projetos em Destaque  
-- **[Sistema de Gestão Eclesiástica](https://github.com/AndreLOWestphal/igreja-app)**: Aplicativo para igrejas com funcionalidades de login, calendário de eventos, mural de avisos e gestão administrativa.  
+- **[Sistema de Gestão Eclesiástica](https://github.com/AndreLOWestphal/igreja-app)**: Aplicativo para igrejas com funcionalidades de login, calendário de eventos, mural de avisos e gestão administrativa.(Em desenvolvimento, atualmente o Design Grafico e modelagem de dados se encontram no Figma.)  
 - **[Landing Page Beauty Clinic](https://github.com/AndreLOWestphal/beauty-clinic)**: Adaptação responsiva baseada em design moderno para clínicas de estética.  
-- **[Marceneiros App](https://github.com/AndreLOWestphal/marcenaria-app)**: Sistema para gestão de projetos de marcenaria com carrossel de imagens e status dinâmico.  
 
 ---
 
