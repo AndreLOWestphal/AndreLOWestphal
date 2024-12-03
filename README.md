@@ -43,7 +43,8 @@ Sou um desenvolvedor **Full Stack** com paixão por resolver problemas e transfo
 
 ---
 
-## 🔭 Projetos em Destaque  
+## 🔭 Projetos em Destaque
+- **[Projetos Reais](https://github.com/AndreLOWestphal/projetosReais)**: De longe atualmente o melhor conjunto de projetos que são significativos e usuais aplicaveis no dia dia.
 - **[Sistema de Gestão Eclesiástica](https://github.com/AndreLOWestphal/igreja-app)**: Aplicativo para igrejas com funcionalidades de login, calendário de eventos, mural de avisos e gestão administrativa.(Em desenvolvimento, atualmente o Design Grafico e modelagem de dados se encontram no Figma.)  
 - **[Landing Page Beauty Clinic](https://github.com/AndreLOWestphal/beauty-clinic)**: Adaptação responsiva baseada em design moderno para clínicas de estética.  
 
