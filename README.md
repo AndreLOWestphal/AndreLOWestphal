@@ -59,6 +59,6 @@ Sou um desenvolvedor **Full Stack** com paixão por resolver problemas e transfo
 
 ## 📫 Entre em Contato  
 📧 E-mail: dedewestphal@hotmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-oliveira-7475585b/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/andre-oliveira-se/)  
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para projetos colaborativos ou discussões técnicas!
