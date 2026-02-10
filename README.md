@@ -38,7 +38,7 @@ Sou um desenvolvedor **Full Stack** com paixão por resolver problemas e transfo
 
 ## 🌟 Minhas Contribuições  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLOWestphal&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=AndreLOWestphal&show_icons=true&theme=radical)
 
 
 ---
