@@ -36,9 +36,13 @@ Sou um desenvolvedor **Full Stack** com paixão por resolver problemas e transfo
 
 ---
 
-## 🌟 Minhas Contribuições  
+## 🌟 Minhas Contribuições
 
-(https://github-readme-stats.vercel.app/api?username=AndreLOWestphal&show_icons=true&theme=radical)
+<div align="center">
+  <img src="./profile/stats.svg" />
+  <br/>
+  <img src="./profile/top-langs.svg" />
+</div>
 
 
 ---
