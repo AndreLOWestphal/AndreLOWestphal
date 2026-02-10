@@ -38,7 +38,7 @@ Sou um desenvolvedor **Full Stack** com paixão por resolver problemas e transfo
 
 ## 🌟 Minhas Contribuições  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLOWestphal&layout=compact&theme=radical" alt="Estatísticas de Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLOWestphal&layout=compact&theme=radical&token=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" />
 </div>
 
 ---
