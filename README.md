@@ -40,7 +40,7 @@ Sou um desenvolvedor **Full Stack** com paixão por resolver problemas e transfo
 
 <div align="center">
   <img src="./profile/stats.svg" />
-  <br/>
+  
   <img src="./profile/top-langs.svg" />
 </div>
 
